@@ -1,0 +1,65 @@
+{
+  "name": "gatsby-theme-massively",
+  "author": "Vsevolod <contact@gatsbytemplates.io>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jlengstorf/gatsby-theme-jam-example.git"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@emotion/core": "^10.0.0-beta.13",
+    "babel-plugin-emotion": "^10.0.0-beta.13",
+    "debug": "^4.1.0",
+    "emotion-theming": "^10.0.0-beta.13",
+    "gatsby": "^2.13.1",
+    "gatsby-image": "^2.0.29",
+    "gatsby-plugin-feed": "^2.0.10",
+    "gatsby-plugin-google-analytics": "^2.0.8",
+    "gatsby-plugin-manifest": "^2.0.11",
+    "gatsby-plugin-offline": "^2.0.18",
+    "gatsby-plugin-postcss-sass": "^1.0.22",
+    "gatsby-plugin-react-helmet": "^3.0.3",
+    "gatsby-plugin-sass": "^2.0.10",
+    "gatsby-plugin-sharp": "^2.0.14",
+    "gatsby-remark-copy-linked-files": "^2.0.7",
+    "gatsby-remark-images": "^3.0.1",
+    "gatsby-remark-prismjs": "^3.1.1",
+    "gatsby-remark-responsive-iframe": "^2.0.7",
+    "gatsby-remark-smartypants": "^2.0.7",
+    "gatsby-source-filesystem": "^2.0.10",
+    "gatsby-transformer-remark": "^2.1.14",
+    "gatsby-transformer-sharp": "^2.1.9",
+    "lodash": "^4.17.11",
+    "mkdirp": "^0.5.1",
+    "node-sass": "^4.11.0",
+    "prismjs": "^1.15.0",
+    "react-helmet": "^5.2.0",
+    "react-hot-loader": "^4.6.5",
+    "react-svg-inline": "^2.1.1",
+    "sharp": "^0.21.3",
+    "svg-react-loader": "^0.4.6",
+    "typeface-merriweather": "0.0.54",
+    "typeface-montserrat": "0.0.54"
+  },
+  "peerDependencies": {
+    "@babel/preset-react": "*",
+    "gatsby": "^2.13.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-plugin-react": "^7.11.1",
+    "eslint-plugin-react-hooks": "^1.7.0",
+    "gh-pages": "^1.2.0",
+    "prettier": "^1.14.2"
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-theme",
+    "gatsby-plugin",
+    "gatsbytemplates"
+  ]
+}
