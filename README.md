@@ -1,7 +1,7 @@
 # Gatsby Theme Massively
 
-Original theme by html5up https://html5up.net/
 Converted to Gatsby by https://gatsbytemplates.io/
+Original theme by html5up https://html5up.net/
 
 ## Installation
 

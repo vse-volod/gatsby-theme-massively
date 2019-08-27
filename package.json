@@ -3,9 +3,12 @@
   "author": "Vsevolod <contact@gatsbytemplates.io>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jlengstorf/gatsby-theme-jam-example.git"
+    "url": "https://github.com/vse-volod/gatsby-theme-massively.git"
   },
-  "version": "1.0.0",
+  "bugs": {
+    "url": "https://github.com/vse-volod/gatsby-theme-massively/issues"
+  },
+  "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
