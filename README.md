@@ -5,7 +5,7 @@ Original theme by html5up https://html5up.net/
 
 ## Installation
 
-To use this theme in your Gatsby sites, follow these instructions:
+To use this theme in your Gatsby sites, check [this example](https://github.com/vse-volod/gatsby-starter-blog) and follow these instructions:
 
 1.  Install the theme
     ```sh
