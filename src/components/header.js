@@ -51,7 +51,7 @@ class Header extends React.Component {
               and released for free under the{' '}
               <a href="https://html5up.net/license" target="_blank" rel="noopener noreferrer">Creative Commons license</a>
               .<br />
-              More themes on <a href="https://gatsbytemplates.io" target="_blank" rel="noopener noreferrer">gatsbytemplates.io</a>
+              More themes on <a href="https://gatsbytemplates.io/?ref='massively'" target="_blank" rel="noopener noreferrer">gatsbytemplates.io</a>
             </p>
           )}
           <ul className="actions">

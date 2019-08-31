@@ -8,7 +8,7 @@ const Copyright = ({title}) => (
         Design: <a href="https://html5up.net">HTML5 UP</a>
       </li>
       <li>
-        Downloaded from: <a href="https://gatsbytemplates.io">Gatsbytemplates.io</a>
+        Downloaded from: <a href="https://gatsbytemplates.io/?ref='massively'">Gatsbytemplates.io</a>
       </li>
     </ul>
   </div>
