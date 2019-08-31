@@ -11,20 +11,22 @@ To use this theme in your Gatsby sites, check [this example](https://github.com/
     ```sh
     npm i gatsby-theme-massively
     ```
-
-2.  Add the theme to your `gatsby-config.js`:
-    ```js
-    module.exports = {
-      plugins: [
-        'gatsby-theme-massively'
-      ]
-    }
-    ```
-
-3. Install dependencies
+    
+2. Install dependencies
 
     ```
     npm i gatsby-plugin-sass node-sass
+    ```
+
+
+3.  Add the theme and sass plugin to your `gatsby-config.js`:
+    ```js
+    module.exports = {
+      plugins: [
+        `gatsby-theme-massively`,
+        `gatsby-plugin-sass`
+      ]
+    }
     ```
 
 4.  Start your site
