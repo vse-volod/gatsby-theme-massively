@@ -37,7 +37,7 @@
     "lodash": "^4.17.11",
     "mkdirp": "^0.5.1",
     "node-sass": "^4.11.0",
-    "prismjs": "^1.15.0",
+    "prismjs": "^1.27.0",
     "react-helmet": "^5.2.0",
     "react-hot-loader": "^4.6.5",
     "react-svg-inline": "^2.1.1",
