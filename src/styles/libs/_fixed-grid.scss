@@ -43,7 +43,7 @@
 	@mixin fixed-grid-columns($columns) {
 
 		> * {
-			$cell-width: 100% / $columns;
+			$cell-width: calc(100% / $columns);
 			width: #{$cell-width};
 		}
 
@@ -56,7 +56,7 @@
 
 		// Apply padding.
 			> * {
-				$cell-width: 100% / $columns;
+				$cell-width: calc(100% / $columns);
 
 				padding: ($gutters * 0.5);
 				width: $cell-width;
@@ -71,7 +71,7 @@
 
 		// Apply padding.
 			> * {
-				$cell-width: 100% / $columns;
+				$cell-width: calc(100% / $columns);
 				$cell-width-pad: $gutters / $columns;
 
 				padding: ($gutters * 0.5);
@@ -99,7 +99,7 @@
 		// Adjust widths of leftmost and rightmost cells.
 			> :nth-child(#{$columns}n + 1),
 			> :nth-child(#{$columns}n) {
-				$cell-width: 100% / $columns;
+				$cell-width: calc(100% / $columns);
 				$cell-width-pad: ($gutters / $columns) - ($gutters / 2);
 
 				width: calc(#{$cell-width} + #{$cell-width-pad});
@@ -144,7 +144,7 @@
 		// Adjust widths of leftmost and rightmost cells.
 			> :nth-child(#{$prev-columns}n + 1),
 			> :nth-child(#{$prev-columns}n) {
-				$cell-width: 100% / $columns;
+				$cell-width: calc(100% / $columns);
 				$cell-width-pad: $gutters / $columns;
 
 				padding: ($gutters * 0.5);
